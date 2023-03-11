@@ -1,0 +1,104 @@
+body{
+    width: 90%;
+    margin: auto;
+    margin-top: 50px;
+
+}
+
+#button, #button2, #button3{   
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 50px;
+    
+
+}
+
+.uber{
+    padding: 10px 20px;
+    border-radius: 0;
+    border-width: 1px;
+    background: black;
+    color: white;
+    
+}
+.amazon{
+    padding: 10px 60px;
+    border-radius: 30px;
+    border: none;
+    background: rgb(255, 216, 20);
+    font-weight: bold;
+
+
+}
+.github{
+    padding: 10px 20px;
+    background: rgb(46, 164, 79);
+    border: none;
+    border-radius: 5px;
+
+}
+#btn2{
+    
+}
+.linkdin{
+    padding: 10px 20px; 
+    border-radius: 30px;
+    border: none;
+    background: rgb(121, 82, 179);
+    color: white;
+    font-weight: bold;   
+}
+.save{
+    padding: 10px 20px;
+    border: 1px solid purple;
+    color: blue;
+    border-radius: 30px;
+    font-weight: bold;
+}
+.bootstrap{
+    padding: 10px 20px;
+    background: rgb(121, 82, 179);
+    color: white;
+    border: none;   
+    border-radius: 3px;
+}
+.download{
+    padding: 10px 20px;
+    border: 1px solid rgb(121, 82, 179);
+    border-radius: 3px;
+}
+.darz_b{
+    border: 1px ;
+    padding: 10px 20px;
+    background: hsl(268, 56%, 34%);
+}
+.daraz{
+    padding: 2px 4px;
+    background: rgb(200,0,0);
+    color: white;
+    border: none;
+    border-radius: 2px;
+}
+.bikroy_b{
+    border: 1px ;
+    padding: 10px 20px;
+    background: green;
+}
+.bikroy{
+    padding: 2px 4px;
+    background: rgb(255,200,0);
+    color: white;
+    border: none;
+    border-radius: 2px;
+}
+
+.sample{
+    padding: 10px 20px;
+    border-radius: 30px;
+    border: 10px solid lightcyan;
+    background-image: linear-gradient(90deg, #5c42aa 0%, #92FE9D 100%);
+    box-shadow: 0px 0px 15px  #5c42aa;
+}
+.box{
+    background: whitesmoke;
+}
